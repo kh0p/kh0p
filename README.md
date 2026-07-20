@@ -1,14 +1,20 @@
-### 楊文里 (kh0p) — kazuhira
+# Hi, I'm kh0p (楊文里) 👋
 
-📍 Szczecin, Poland · 🔗 [kh0p.github.io](https://kh0p.github.io)
+📍 Szczecin, Poland &nbsp;·&nbsp; 🔗 [kh0p.github.io](https://kh0p.github.io)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kh0p&color=blue&style=flat" alt="Profile Views" />
 </p>
 
+---
+
+## 💻 About Me
+
 I build small tools and game experiments, also work with AI.
 
-#### Stack
+---
+
+## 🛠 Stack
 
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -20,6 +26,8 @@ I build small tools and game experiments, also work with AI.
   <img height="28" src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-#### Elsewhere
+---
+
+## 🌐 Elsewhere
 
 [Blog](https://kh0p.github.io)
