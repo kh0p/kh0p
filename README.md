@@ -31,3 +31,4 @@ I build small tools and game experiments, also work with AI.
 ## 🌐 Elsewhere
 
 [Blog](https://kh0p.github.io)
+[Artstation](https://www.artstation.com/teaya)
