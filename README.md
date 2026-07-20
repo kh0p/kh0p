@@ -15,7 +15,6 @@ I build small tools and game experiments, also work with AI.
 #### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kh0p&show_icons=true&theme=default" alt="kh0p's GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kh0p&theme=default" alt="kh0p's GitHub streak" height="165" />
 </p>
 
